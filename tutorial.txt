@@ -1,0 +1,9 @@
+Hi this is Justin and I'm practicing on my git skills.
+I am also practicing using common terminal commands on UNIX.
+
+I created this file by setting my current path to desktop and then creating a new folder using mkdir.
+I then created this file using nano.
+
+Stay tuned and I hope you wish me luck!
+
+
