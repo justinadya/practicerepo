@@ -1,5 +1,0 @@
-I am now practicing how to push and pull!
-
-I have changed the repository setting so that pushes can only be done with pull/merge requests.
-
-Let's keep practicing! Woohoo!
